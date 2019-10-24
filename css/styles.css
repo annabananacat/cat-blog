@@ -1,0 +1,16 @@
+.info{
+  font-weight: bold;
+  color: #273746;
+  background-color: #D1F2EB;
+  margin-top: 3%;
+  margin-bottom: 5%;
+  padding: 1%;
+}
+
+.about_me{
+  color: #000;
+  font-style: italic;
+  margin-bottom: 1%;
+  background-color: #48C9B0;
+  padding: 1%;
+}
